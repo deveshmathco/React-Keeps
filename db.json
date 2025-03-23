@@ -1,0 +1,90 @@
+{
+  "tasks": [
+    {
+      "id": "1742749761474",
+      "title": "Learn Material UI",
+      "description": "look for a good channel on youtube to learn material ui so styling gets easier to do",
+      "category": "Work",
+      "priority": "high",
+      "createdAt": "2025-03-23T17:09:21.474Z",
+      "completed": true
+    },
+    {
+      "id": "1742749802599",
+      "title": "badminton",
+      "description": "book a slot for badminton turf for weekend",
+      "category": "Personal",
+      "priority": "low",
+      "createdAt": "2025-03-23T17:10:02.599Z",
+      "completed": false
+    },
+    {
+      "id": "1742749855531",
+      "title": "Go to market",
+      "description": "go to market buy fruits and vegetables and tshirt",
+      "category": "Shopping",
+      "priority": "medium",
+      "createdAt": "2025-03-23T17:10:55.531Z",
+      "completed": true
+    },
+    {
+      "id": "1742750000001",
+      "title": "Pay Electricity Bill",
+      "description": "Pay the monthly electricity bill online",
+      "category": "Personal",
+      "priority": "medium",
+      "createdAt": "2025-03-23T17:15:00.000Z",
+      "completed": false
+    },
+    {
+      "id": "1742750000002",
+      "title": "Complete Project Documentation",
+      "description": "Finish writing the documentation for the software project",
+      "category": "Work",
+      "priority": "high",
+      "createdAt": "2025-03-23T17:20:00.000Z",
+      "completed": false
+    },
+    {
+      "id": "1742750000003",
+      "title": "Book Doctor's Appointment",
+      "description": "Schedule a check-up with the doctor",
+      "category": "Personal",
+      "priority": "medium",
+      "createdAt": "2025-03-23T17:25:00.000Z",
+      "completed": false
+    },
+    {
+      "id": "1742750000004",
+      "title": "Buy Groceries Online",
+      "description": "Order groceries from the supermarket website",
+      "category": "Shopping",
+      "priority": "low",
+      "createdAt": "2025-03-23T17:30:00.000Z",
+      "completed": true
+    },
+    {
+      "id": "1742750000007",
+      "title": "Purchase Books",
+      "description": "Buy the books recommended by friend",
+      "category": "Shopping",
+      "priority": "medium",
+      "createdAt": "2025-03-23T17:45:00.000Z",
+      "completed": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Personal"
+    },
+    {
+      "id": "2",
+      "name": "Work"
+    },
+    {
+      "id": "3",
+      "name": "Shopping"
+    }
+  ]
+}
